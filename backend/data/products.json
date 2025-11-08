@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Áo thun trắng Basic",
+    "price": 199000,
+    "image": "https://via.placeholder.com/300x300.png?text=Ao+thun+trang",
+    "description": "Áo thun cotton basic, mặc hàng ngày, nhiều màu.",
+    "sizes": ["S","M","L","XL"],
+    "colors": ["white","black","blue"]
+  },
+  {
+    "id": 2,
+    "name": "Quần jean xanh",
+    "price": 399000,
+    "image": "https://via.placeholder.com/300x300.png?text=Quan+jean",
+    "description": "Quần jean co giãn, form ôm vừa.",
+    "sizes": ["28","30","32","34"],
+    "colors": ["blue"]
+  },
+  {
+    "id": 3,
+    "name": "Áo khoác bomber",
+    "price": 699000,
+    "image": "https://via.placeholder.com/300x300.png?text=Ao+khoac",
+    "description": "Áo khoác bomber chống gió, phù hợp dạo phố.",
+    "sizes": ["M","L","XL"],
+    "colors": ["black","green"]
+  }
+]
